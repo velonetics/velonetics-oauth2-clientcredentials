@@ -12,7 +12,7 @@ import (
 )
 
 // Namespace is the key to use to store and access the custom config data
-const Namespace = "github.com/pucora/velonetics-oauth2-clientcredentials"
+const Namespace = "github.com/pucora/pucora-oauth2-clientcredentials"
 
 // NewHTTPClient creates a HTTPClientFactory with an http client configured for dealing
 // with all the logic related to the oauth2 client credentials grant

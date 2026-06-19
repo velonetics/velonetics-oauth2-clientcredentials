@@ -1,4 +1,4 @@
-module github.com/pucora/velonetics-oauth2-clientcredentials/v2
+module github.com/pucora/pucora-oauth2-clientcredentials/v2
 
 go 1.23.0
 

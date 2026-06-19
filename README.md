@@ -11,7 +11,7 @@ This package exposes single factory capable to create a instances of the `proxy.
 		"net/http"
 		"github.com/pucora/lura/v2/config"
 		"github.com/pucora/lura/v2/proxy"
-		"github.com/pucora/velonetics-oauth2-clientcredentials/v2"
+		"github.com/pucora/pucora-oauth2-clientcredentials/v2"
 	)
 
 	requestExecutorFactory := func(cfg *config.Backend) proxy.HTTPRequestExecutor {
