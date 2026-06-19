@@ -7,12 +7,12 @@ import (
 
 	"golang.org/x/oauth2/clientcredentials"
 
-	"github.com/velonetics/lura/v2/config"
-	"github.com/velonetics/lura/v2/transport/http/client"
+	"github.com/pucora/lura/v2/config"
+	"github.com/pucora/lura/v2/transport/http/client"
 )
 
 // Namespace is the key to use to store and access the custom config data
-const Namespace = "github.com/velonetics/velonetics-oauth2-clientcredentials"
+const Namespace = "github.com/pucora/velonetics-oauth2-clientcredentials"
 
 // NewHTTPClient creates a HTTPClientFactory with an http client configured for dealing
 // with all the logic related to the oauth2 client credentials grant
