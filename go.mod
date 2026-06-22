@@ -7,4 +7,4 @@ require (
 	golang.org/x/oauth2 v0.36.0
 )
 
-require golang.org/x/text v0.37.0 // indirect
+require golang.org/x/text v0.38.0 // indirect
